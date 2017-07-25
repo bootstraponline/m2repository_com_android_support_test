@@ -6,6 +6,12 @@ Note: New versions have moved to `https://maven.google.com`
 
 # maven.google.com
 
+```
+// Add to build.gradle
+maven {
+  url 'https://maven.google.com'
+}
+```
 
 - [runner-1.0.0.pom](https://maven.google.com/com/android/support/test/runner/1.0.0/runner-1.0.0.pom)
 - [rules-1.0.0.pom](https://maven.google.com/com/android/support/test/rules/1.0.0/rules-1.0.0.pom)
