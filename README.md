@@ -29,6 +29,22 @@ maven {
 - [espresso-idling-resource-3.0.0.pom](https://maven.google.com/com/android/support/test/espresso/espresso-idling-resource/3.0.0/espresso-idling-resource-3.0.0.pom)
 - [idling-net-3.0.0.pom](https://maven.google.com/com/android/support/test/espresso/idling/idling-net/3.0.0/idling-net-3.0.0.pom)
 - [idling-concurrent-3.0.0.pom](https://maven.google.com/com/android/support/test/espresso/idling/idling-concurrent/3.0.0/idling-concurrent-3.0.0.pom)
+
+# Android Test Orchestrator
+
+[Usage notes](https://developer.android.com/training/testing/junit-runner.html#using-android-test-orchestrator) for Android Test Orchestrator. 
+
+```
+adb install -r orchestrator-1.0.0.apk
+adb install -r test-services-1.0.0.apk
+
+adb shell 'CLASSPATH=$(pm path android.support.test.services) app_process / \
+  android.support.test.services.shellexecutor.ShellMain am instrument -w -e \
+  targetInstrumentation com.example.test/android.support.test.runner.AndroidJUnitRunner \
+  android.support.test.orchestrator/.AndroidTestOrchestrator'
+```
+
+
 - [orchestrator-1.0.0.pom](https://maven.google.com/com/android/support/test/orchestrator/1.0.0/orchestrator-1.0.0.pom)
   - [orchestrator-1.0.0.apk](https://maven.google.com/com/android/support/test/orchestrator/1.0.0/orchestrator-1.0.0.apk)
   - [orchestrator-1.0.0-sources.jar](https://maven.google.com/com/android/support/test/orchestrator/1.0.0/orchestrator-1.0.0-sources.jar)
