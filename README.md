@@ -22,3 +22,4 @@ maven {
 - [idling-concurrent-3.0.0.pom](https://maven.google.com/com/android/support/test/espresso/idling/idling-concurrent/3.0.0/idling-concurrent-3.0.0.pom)
 - [espresso-intents-3.0.0.pom](https://maven.google.com/com/android/support/test/espresso/espresso-intents/3.0.0/espresso-intents-3.0.0.pom)
 - [orchestrator-1.0.0.pom](https://maven.google.com/com/android/support/test/orchestrator/1.0.0/orchestrator-1.0.0.pom)
+- [test-services-1.0.0.pom](https://maven.google.com/com/android/support/test/services/test-services/1.0.0/test-services-1.0.0.pom)
