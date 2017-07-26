@@ -18,4 +18,7 @@ maven {
 - [espresso-core-3.0.0](https://maven.google.com/com/android/support/test/espresso/espresso-core/3.0.0/espresso-core-3.0.0.pom)
 - [espresso-contrib-3.0.0.pom](https://maven.google.com/com/android/support/test/espresso/espresso-contrib/3.0.0/espresso-contrib-3.0.0.pom)
 - [espresso-idling-resource-3.0.0.pom](https://maven.google.com/com/android/support/test/espresso/espresso-idling-resource/3.0.0/espresso-idling-resource-3.0.0.pom)
+- [idling-net-3.0.0.pom](https://maven.google.com/com/android/support/test/espresso/idling/idling-net/3.0.0/idling-net-3.0.0.pom)
+- [idling-concurrent-3.0.0.pom](https://maven.google.com/com/android/support/test/espresso/idling/idling-concurrent/3.0.0/idling-concurrent-3.0.0.pom)
 - [espresso-intents-3.0.0.pom](https://maven.google.com/com/android/support/test/espresso/espresso-intents/3.0.0/espresso-intents-3.0.0.pom)
+- [orchestrator-1.0.0.pom](https://maven.google.com/com/android/support/test/orchestrator/1.0.0/orchestrator-1.0.0.pom)
