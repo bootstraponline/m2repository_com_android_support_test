@@ -1,3 +1,7 @@
+# release notes
+
+[Android support test release notes](https://developer.android.com/topic/libraries/testing-support-library/release-notes.html)
+
 # local m2repository
 
 - `~/Library/Android/sdk/extras/android/m2repository/com/android/support/test`
