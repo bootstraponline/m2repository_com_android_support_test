@@ -8,6 +8,10 @@
 
 Note: New versions have moved to `https://maven.google.com`
 
+# cached google repository
+
+- `open ~/.gradle/caches/modules-2/files-2.1/com.android.support.test.espresso/`
+
 # maven.google.com
 
 ```
