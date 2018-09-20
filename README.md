@@ -62,4 +62,5 @@ adb shell 'CLASSPATH=$(pm path android.support.test.services) app_process / \
 
 # AndroidX
 
-- [androidx espresso-core 3.1.0-alpha4](https://maven.google.com/androidx/test/espresso/espresso-core/3.1.0-alpha4/espresso-core-3.1.0-alpha4.pom)
+- [espresso-core-3.1.0-alpha4.pom](https://maven.google.com/androidx/test/espresso/espresso-core/3.1.0-alpha4/espresso-core-3.1.0-alpha4.pom)
+  - [espresso-core-3.1.0-alpha4-sources.jar](https://dl.google.com/dl/android/maven2/androidx/test/espresso/espresso-core/3.1.0-alpha4/espresso-core-3.1.0-alpha4-sources.jar)
