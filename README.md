@@ -67,4 +67,5 @@ adb shell 'CLASSPATH=$(pm path android.support.test.services) app_process / \
 - [espresso-core-3.1.0-alpha4.pom](https://maven.google.com/androidx/test/espresso/espresso-core/3.1.0-alpha4/espresso-core-3.1.0-alpha4.pom)
   - [espresso-core-3.1.0-alpha4-sources.jar](https://dl.google.com/dl/android/maven2/androidx/test/espresso/espresso-core/3.1.0-alpha4/espresso-core-3.1.0-alpha4-sources.jar)
 - [runner-1.1.0-alpha4.pom](https://maven.google.com/androidx/test/runner/1.1.0-alpha4/runner-1.1.0-alpha4.pom)
-  - [runner-1.1.0-sources.jar](https://maven.google.com/androidx/test/runner/1.1.0-alpha4/runner-1.1.0-sources.jar)
+  - [runner-1.1.0-alpha4-sources.jar](https://dl.google.com/dl/android/maven2/androidx/test/runner/1.1.0-alpha4/runner-1.1.0-alpha4-sources.jar)
+
