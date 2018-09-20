@@ -59,3 +59,7 @@ adb shell 'CLASSPATH=$(pm path android.support.test.services) app_process / \
   - [test-services-1.0.0.apk](https://maven.google.com/com/android/support/test/services/test-services/1.0.0/test-services-1.0.0.apk)
   - [test-services-1.0.0-sources.jar](https://maven.google.com/com/android/support/test/services/test-services/1.0.0/test-services-1.0.0-sources.jar)
 
+
+# AndroidX
+
+- [androidx espresso-core 3.1.0-alpha4](https://maven.google.com/androidx/test/espresso/espresso-core/3.1.0-alpha4/espresso-core-3.1.0-alpha4.pom)
